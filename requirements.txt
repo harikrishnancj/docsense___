@@ -1,0 +1,48 @@
+# Core API & Server
+fastapi
+uvicorn
+python-multipart
+sqlalchemy
+python-dotenv
+python-jose[cryptography]
+passlib[bcrypt]
+requests
+
+# LangChain & LangGraph
+langgraph
+langsmith
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+
+# LlamaIndex & Vector Storage
+llama-index-core
+llama-index-embeddings-ollama
+llama-index-llms-ollama
+llama-index-readers-file
+chromadb
+llama-index-vector-stores-chroma
+
+# Data Analysis & Deep Visualization
+duckdb
+pandas
+openpyxl
+matplotlib
+seaborn
+wordcloud
+
+
+# Document Understanding & OCR
+python-docx
+python-pptx
+pymupdf
+pillow
+numpy
+opencv-python
+paddleocr
+paddlepaddle
+pytesseract
+spacy
+camelot-py
+ollama
